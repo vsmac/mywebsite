@@ -7,6 +7,6 @@ range: 'Nov 2018 - March 2020'
 url: 'https://www.moglix.com/'
 ---
 
-- Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Manually tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Setup and roll out Infrastructure via Jenkins Pipeline That is using CloudFormation, Ansible and Jinja2 Template and some Bash and Python scripts
+- Configured Jenkins Pipeline for CI/CD That have Included Test Cases, Code Scanner, Security Testing and Build Deployment on Micro- Services in Containerization
+- Setup Ossec Security Tool on Servers via Ansible

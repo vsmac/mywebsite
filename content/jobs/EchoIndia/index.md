@@ -7,5 +7,6 @@ range: 'April 2020 - Present'
 url: 'https://www.echoindia.in/'
 ---
 
-- Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern
-- Worked closely with designers and management team to develop, document, and manage the conference’s marketing website using Jekyll, Sass, and JavaScript
+- Setup and Roll out AWS (EKS) Infra and GCP Cloud (GKE) Infra via Terraform and For Configuration Ansible used, Worked on Different Cloud Like AWS, Azure and On Premesis
+
+- Build automation with CodePipeline and Jenkins. Worked on ECS and Elastic BeanStalk.

@@ -7,6 +7,7 @@ module.exports = {
       'Vishnu Gaur is a DevOps Engineer who specializes in building and automating things ',
     siteUrl: 'https://vishnugaur.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
+    twitterUsername: '@bchiang7',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
